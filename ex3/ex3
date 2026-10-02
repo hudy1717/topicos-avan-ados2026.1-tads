@@ -1,0 +1,3 @@
+//Central modular de relatórios acadêmicos
+
+//obs: utilize o cd ex3(via terminal) antes... eu não coloquei o .json na pasta raiz, então se apenas utilizar o npm start antes do cd ex3, ele não vai funcionar.
