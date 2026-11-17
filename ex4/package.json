@@ -1,0 +1,10 @@
+{
+  "name": "suporte-academico-oo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema de suporte acadêmico orientado a objetos em JS/Node.js",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
